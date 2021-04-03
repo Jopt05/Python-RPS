@@ -6,4 +6,6 @@ Hope you enjoy and give some advice because no one ever stops learning!
 
 # How to
 To install the .exe and run the script you can run the next line in your command line.
+```sh
 pyinstaller game.py --add-data "*.png;."
+```
